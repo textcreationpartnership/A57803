@@ -1,0 +1,300 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Julian ship, or, Paul's transportation to Rome a discourse on Acts 27, 15, made on March 20, 1680/81, the Sunday before the last Parliament's meeting at Oxford / by Wil. Ramsay, Esq., B.D. ...</title>
+            <author>Ramsay, William, B.D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57803</idno>
+            <idno type="STC">Wing R216</idno>
+            <idno type="STC">ESTC R13588</idno>
+            <idno type="EEBO-CITATION">13020841</idno>
+            <idno type="OCLC">ocm 13020841</idno>
+            <idno type="VID">96627</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57803)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96627)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 398:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Julian ship, or, Paul's transportation to Rome a discourse on Acts 27, 15, made on March 20, 1680/81, the Sunday before the last Parliament's meeting at Oxford / by Wil. Ramsay, Esq., B.D. ...</title>
+                  <author>Ramsay, William, B.D.</author>
+               </titleStmt>
+               <extent>[10], 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Benj. Billingsley ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Paul, --  the Apostle, Saint.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:96627:1"/>
+            <p>
+               <figure>
+                  <head>The Julian Ship Or Pauls Transportation to Rome.</head>
+                  <figure>
+                     <p>Who Shall Seprateus Roms.</p>
+                     <p>Repent And Believ The Gospel.</p>
+                  </figure>
+                  <p>Were J a Julius, J' de Chuse a Wrack with Paul<g ref="char:punc">▪</g>
+                  </p>
+                  <p>Rather Then Ceſars' Seat, Or Crown Jmperiall</p>
+                  <p>F.H. <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </p>
+               </figure>
+            </p>
+            <pb facs="tcp:96627:1"/>
+         </div>
+         <div type="explanation_of_frontispiece">
+            <head>The Explanation of the Frontiſpiece.</head>
+            <p>
+               <hi>THE Ship</hi>'s the Popiſh Crew, which would Tranſport the Realm.</p>
+            <p>
+               <hi>Paul</hi>'s the Church Reform'd; <hi>Ariſtarch,</hi> his Royal Friend at <hi>Helm.</hi>
+            </p>
+            <p>
+               <hi>Julius</hi> the <hi>Roman</hi> Captain, Proud <hi>Nero</hi>'s Miniſter.</p>
+            <p>
+               <hi>Luke, Paul</hi>'s Evangeliſt, and Hiſtoriographer.</p>
+            <p>The Ship may Split with Plots, The Wind's Conſpire her Doom.</p>
+            <p>To <hi>Paul,</hi> and to his Faithful Friends, no harm, no loſs, not of an hair ſhall come.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <head>Mirmah, Maromah, Maroum.</head>
+            <p>Three Diſcourſes by the ſame Author, concerning <hi>Romiſh</hi> and Proteſtant Witneſſes, peculiarly in Rela<g ref="char:EOLhyphen"/>tion to the <hi>Popiſh</hi> Plot diſcover'd, <hi>Anno</hi> 1678. and containing a New and certain Diſcovery of the <hi>Pope</hi>'s being the Anti-Chriſt, whoſe Number of his Name is 666. And of the Deſtruction of <hi>Rome.</hi> To be ſold by <hi>Ben. Billingſley</hi> at the <hi>Printing-Preſs</hi> in <hi>Cornhil.</hi>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:96627:2"/>
+            <pb facs="tcp:96627:2" rendition="simple:additions"/>
+            <p>THE <hi>Julian</hi> SHIP: OR <hi>Paul's Tranſportation</hi> TO ROME. A Diſcourſe on <hi>ACTS</hi> 27.15. Made on <hi>March</hi> 20, 1681/80, the Sunday before the Laſt Parliament's Meeting at <hi>Oxford.</hi>
+            </p>
+            <p>By <hi>WIL. RAMSAY</hi>
+               <abbr>Eſq</abbr> B. D. And then Lecturer in <hi>Iſleworth</hi> in <hi>Middleſex.</hi>
+            </p>
+            <p>Printed becauſe of falſe Breviat's, ſpread about in CITY and COUNTRY to Traduce the Au<g ref="char:EOLhyphen"/>thor as FANATICALL; but who as a Prea<g ref="char:EOLhyphen"/>cher of PEACE, did alwayes Commend and Improve theſe following Texts.</p>
+            <q>
+               <bibl>
+                  <hi>Rom. 12.9.</hi>
+               </bibl>
+               <p>Let Love be without Diſſimulation.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Ver. 16.</hi>
+               </bibl>
+               <p>Be of the ſame Mind one towards another.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Gal. 5.15.</hi>
+               </bibl>
+               <p>If ye bite and devour One-another, take heed that ye be not conſumed One of another.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>1 Pet. 2.17.</hi>
+               </bibl>
+               <p>Honour all Men. Love the Brotherhood. Fear God. Honour the King.</p>
+            </q>
+            <p>LONDON, Printed for <hi>Benj. Billingſley,</hi> at the <hi>Printing-Preſs</hi> in the <hi>Piazza</hi> of the <hi>Royal Exchange</hi> in <hi>Cornhil.</hi> 1681.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:96627:3"/>
+            <pb facs="tcp:96627:3"/>
+            <head>TO THE GENTRY AND CLERGY.</head>
+            <opener>
+               <salute>Gentlemen, and Brethren,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Have a Neceſſity, and aſſume the Liberty to ſalute you both under One Title, and in One Epiſtle, aſ<g ref="char:EOLhyphen"/>ſuring my ſelf, that I ſhall find no leſs meaſure of Candour and Love, than of Cenſure and Judgment from you both. I cannot fear but the Engliſh Nation, how<g ref="char:EOLhyphen"/>ever debauch'd the Age may be, affords a glorious Hoſt of right Spirited Men, who keep their Ancient ſtation of true Honour and Piety, and are alwayes ready with Courage and Cheer to defend the Rights of both, againſt that vile Scum of the boyling times, men who ſeek gain from Infamy, from Infamy inherent in themſelves, and from ſpots of infamy which they itch to rub upon others, eſpecially on ſuch whoſe integrity is vital, and has an active Influence, and renders every baſe thing Odious.</p>
+            <pb facs="tcp:96627:4"/>
+            <p>I willingly take my refuge to you, that the world may know, how much I abhor the baſeneſs of a falſe Spirit. This I muſt do, not for my private right only, but for the right of my Name, whereof I am chief in <hi>England</hi> (and I think it no whit degraded by my Miniſtry, or by any Sufferings for it) which was never ſtain'd with the leaſt ſpot of Diſloyalty or Diſhonour, and ſhall never be ſpo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted by any Degeneracy of mine. It has been ſignaliz'd with moſt Royal marks of Honour, witneſs the Right hand in my Scutcheon with this Motto, <hi>Hac dextra Vindex Prin<g ref="char:EOLhyphen"/>cipis &amp; Patriae,</hi> for which I have the Broad Seal of <hi>England.</hi> In Our late Soveraign's Warrs, My Father ſpent a conſiderable Eſtate in raiſing forces for the Royal Aid, and the Remainder was ſo engaged, that I now ſuf<g ref="char:EOLhyphen"/>fer a total loſs of it; yet I repent not, but readily ſpend my ſelf in his Majeſty's Service, in which I am moſt unwor<g ref="char:EOLhyphen"/>thily miſ-repreſented by ſome. I hazarded my life in three ſharp engagements in Ship with the Earl of <hi>Oſſory,</hi> who honour'd me with his favour ever after, and Letters, and Title of his Chaplain, and by his Lordſhips commendation I was placed in a very beneficial portion of the Church in the Iſland of <hi>Barbadoes,</hi> where I labour'd in the <hi>Indian</hi> Fires four years, planted Conformity, ſilenced the Qua<g ref="char:EOLhyphen"/>kers, after many publick Combats, and bodily dangers, reduced hundreds to the Church, and return'd not till forced for want of health, reſigning freely a living of three hundred <hi>per annum.</hi> For all which, I have the Teſti<g ref="char:EOLhyphen"/>mony of Sir <hi>Jonathan Atkins</hi> his Majeſty's moſt Wor<g ref="char:EOLhyphen"/>thy Governour there, and his ever moſt Loyal and ap<g ref="char:EOLhyphen"/>proved Martialiſt, whoſe Chaplain <hi>I</hi> went.</p>
+            <p>Since my return, finding two Enemies of Church and State, <hi>Popery</hi> and <hi>Diſſention, I</hi> have moſt heartily and laboriouſly oppos'd both, and that, as <hi>I</hi> am perſwaded,
+<pb facs="tcp:96627:4"/>with the most proper means: and if any man, of whatſo<g ref="char:EOLhyphen"/>ever ſide, can inform me better, <hi>I</hi> ſhall inſtantly embrace his inſtruction. <hi>I</hi> could never perſwade my ſelf, that rail<g ref="char:EOLhyphen"/>ing againſt Mr. <hi>Calvin,</hi> or againſt <hi>Geneva,</hi> or blowing out anger and Paſſion, and ſounding forth perſecution a<g ref="char:EOLhyphen"/>gainſt Diſſenters, was or can ever be a proper means to do any good. On the Contrary, <hi>I</hi> have found by certain Tri<g ref="char:EOLhyphen"/>al and by many Experiments of ten years time, that Apo<g ref="char:EOLhyphen"/>ſtolical Moderation, and Peaceable Perſwaſion with thoſe Arguments of peace which the Goſpel moſt abundantly affords, is an effectual way to reduce the moſt to <g ref="char:V">Ʋ</g>nity. And having followed this way more ſtrictly above two years in <hi>Thiſtleworth</hi> Pariſh, <hi>I</hi> found no ſmall number of Diſ<g ref="char:EOLhyphen"/>ſenting and Diſ-ſatisfied Souls won to a hearty and fre<g ref="char:EOLhyphen"/>quent Communion, even at the Table of Love.</p>
+            <p>But this very thing, that many Fanaticks (as they ſpake) followed me, became as a Crime, and ſome buſie Sycophants turn'd Informers, at Court and Cathedral, that <hi>I</hi> led a Faction, and made the Church a Meeting-Houſe; and they carried on this Calumny ſo cloſe and clandeſtinely that <hi>I</hi> could not ſuſpect it, till <hi>I</hi> found my ſelf ſupplanted, and ſcarce then could <hi>I</hi> beat out the buſi<g ref="char:EOLhyphen"/>neſs.</p>
+            <p>
+               <hi>I</hi> therefore now declare to the Whole Church, that <hi>I</hi> never uſed any unlawful means or perſwaſion, nor the leaſt Diſloyal motive, to make a Congregation, or to gain the favour of any perſon, much leſs of a party. <hi>I</hi> Conform'd entirely to the Church of <hi>England</hi> in all things, eſpecially in the Doctrine of the <hi>39</hi> Articles. <hi>I</hi> uſed no means to gain applauſe of any, but Chriſtian Moderation, as be<g ref="char:EOLhyphen"/>comes a Preacher of the Goſpel. And <hi>I</hi> dare confer above <hi>200</hi> Sermons which <hi>I</hi> Preach'd in <hi>Iſleworth</hi> Church, for as Practical and Seaſonable and Loyal Diſcourſes, as
+<pb facs="tcp:96627:5"/>any other man has Preach'd, or as the times required. The only Sermons which are objected against me are this preſent and three more already printed: and <hi>I</hi> was con<g ref="char:EOLhyphen"/>strain'd to print this of St. <hi>Paul's</hi> Voyage, for ſome had ſpred in City and Country most falſe and ſcandalous Bre<g ref="char:EOLhyphen"/>viates, which were not taken from my mouth, as themſelves confeſs, but were made in Company afterwards from weak Memories and <g ref="char:V">Ʋ</g>nſound Heads, and with what ingredi<g ref="char:EOLhyphen"/>ent of Prejudice and Malice, <hi>I</hi> leave to God and others to Judge. <hi>I</hi> therefore deſire to be excus'd, as Printing it altogether upon constraint, to avoid or avert, or at least to allay a greater evil of Miſ-reputation.</p>
+            <p>
+               <hi>I</hi> alſo intreat, that my deſign in Preaching that Sermon may be underſtood, which appears from the final drift of it, which was to move the People to moſt earneſt Prayer, that God would <g ref="char:V">Ʋ</g>nite Our King and his Parliament, contrary to the manifest endeavours of the Papiſts. For I alwayes eſteem'd it the moſt dangerous and chief part of the Popiſh Plot to diſturb the cloſe <g ref="char:V">Ʋ</g>nion and ſweet A<g ref="char:EOLhyphen"/>greement of the King and his Parliament, without which neither Our Church, nor our State can Flouriſh or Proſper. And without doubt this is One of his Majeſty's greateſt Griefs, as his moſt gracious Declaration does intimate, that he was conſtrain'd to make ſo many Diſſolutions and ſo ſhort Seſſions. As for the Reaſons or Political Cauſes of theſe, <hi>I</hi> alwayes thought them above the Sphere of a pri<g ref="char:EOLhyphen"/>vate Man. But, as our Enemies rejoyce in theſe things, <hi>I</hi> think we ought all to mourn, and to beg of God with publick and private Prayers and moſt unanimous Suppli<g ref="char:EOLhyphen"/>cations, that he will pleaſe in due ſeaſon to unite and ſtrengthen the States of the Realm.</p>
+            <p>As to my other three Sermons, of <hi>Mirmah, Maromah,</hi> and <hi>Maroum,</hi> the matter of them being wholly new
+<pb facs="tcp:96627:5"/>(though the aſſertion Ancient and Orthodox) <hi>I</hi> judg'd it neceſſary to print them to prevent the ſtrange Accounts which many gave of them. The Aſſertion is this, <hi>That the Popiſh Principles and Practices maketh Witneſſes of the late Plot moſt Credible, that the Evidence of things has been ſo great that we ought to believe the Matter of Fact, if not with a Divine Faith, at leaſt with all the Aſſurance of a Humane and Moral Faith: That the Pope is the Antichriſt, that very Apocalyp<g ref="char:EOLhyphen"/>tical Beaſt, the Number of whoſe Name is 666. That the next thing to be fulfilled, in the Apocalyptical Order of the ſeven Vials, is the fiery deſtruction of</hi> Rome, <hi>that the time is very near; and in moſt proba<g ref="char:EOLhyphen"/>ble account to be fulfilled in this Generation or Cen<g ref="char:EOLhyphen"/>tury.</hi>
+            </p>
+            <p>Theſe things, as to the Aſſertion, are agreeable to all Reform'd Divines of Note; eſpecially the Ancient Di<g ref="char:EOLhyphen"/>vines and Biſhops of <hi>England,</hi> and of King <hi>James</hi> his time. Yet I wonder to hear ſome Murmur, as if now Di<g ref="char:EOLhyphen"/>vines were better inform'd of the Pope, and cannot think him a Beast or the Antichriſt: if any Divine be ſo per<g ref="char:EOLhyphen"/>ſwaded, My Sermons are the more neceſſary for his ſake. As for the matter in which <hi>I</hi> handle and prove theſe aſſer<g ref="char:EOLhyphen"/>tions, which is the Name of <hi>Maroum,</hi> and that ſingular Prophecy of <hi>Iſaiah,</hi> chap. <hi>24.21. I</hi> think that matter was never touched before to the ſame purpoſe, and I think the Name of Antichrist, to which that Number belongs, was never diſcover'd before, though thouſands of brains have been buſie in ſearch of it; and <hi>I</hi> think the diſcovery <hi>I</hi> made, is the Divine truth, and that <hi>Wiſdom of God,</hi> which St. <hi>John</hi> commends to every man <hi>that hath under<g ref="char:EOLhyphen"/>ſtanding,</hi> Rev. <hi>13.18.</hi> which ought not to be kept hid.</p>
+            <pb facs="tcp:96627:6"/>
+            <p>Wherefore <hi>I</hi> again commend thoſe Diſcourſes to the Whole Church of God, as being of great Conſequence and of comfortable <g ref="char:V">Ʋ</g>ſe, eſpecially in theſe times. And <hi>I</hi> do this again, with the more earneſt heart, becauſe <hi>I</hi> have found of a Truth, that the diſcovery is ſound and effectual and triumphs over all contradiction and diſpute. Nei<g ref="char:EOLhyphen"/>ther let any man deſpiſe it for my Perſon, for God did wonderfully call me from mine infancy to this profeſſion, the first of my Family that was of it: and <hi>I</hi> have ſpent a<g ref="char:EOLhyphen"/>bove thirty years in the Study of Languages and Sciences, but chiefly of the holy Scriptures which <hi>I</hi> have known from a Child, and to which as the chief means <hi>I</hi> aſcribe (next to the Grace of Jeſus Christ) my Faith and Knowledge of Salvation.</p>
+            <p>In fine, <hi>I</hi> deſire the Favour and Civility of all ingenu<g ref="char:EOLhyphen"/>ous men, not to ſuffer the abuſes of idle and empty Talkers, much leſs the injuries of buſie, pragmatical Sycophants, to leſſen that Just Reputation of Godly Sincerity and Loyal<g ref="char:EOLhyphen"/>ty, which (as all my Name before me) <hi>I</hi> purſue and hope to poſſeſs by due and proper means, as being with cor<g ref="char:EOLhyphen"/>dial Affection and unſhaken Constancy,</p>
+            <closer>
+               <signed>Gentlemen and Brethren, Your faithful Brother and Servant in Christ Jeſus, <hi>W. Ramſay.</hi>
+               </signed>
+               <dateline>Thiſtleworth, <date>
+                     <hi>Nov.</hi> 14, Anno Chriſti 1681.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:96627:6"/>
+            <epigraph>
+               <q>
+                  <bibl>ACT. 27.15.</bibl>
+                  <p>And when the Ship was caught, and could not bear up into the Wind, we let her drive.</p>
+               </q>
+            </epigraph>
+            <p>THE Trope is frequent in Scripture, that the Church is Typed by a Ship. As by <hi>Noah</hi>'s <hi>Ark,</hi> Gen. 6. <hi>By the Ship in the midſt of the Sea,</hi> Mat. 8.23. and 14.24. and Rev. 8.9. Churches are called Ships. And the body of every Church is call'd its <hi>Nave.</hi> So the Now-Church of <hi>England</hi> ſeems to be aptly repreſented by this Ship of St. <hi>Paul</hi> in the Text, which being caught with a Tempeſtuous Wind, called <hi>Euroclydon,</hi> could not bear up into Wind; but was driven at the mercy of the Maſter of the Winds. This will appear by all the Circumſtances related of this Ship in this preſent Chapter. Only I muſt firſt premiſe,</p>
+            <p>That the Now-Church of <hi>England</hi> may be taken,</p>
+            <p>Firſt, In a Common ſenſe, as it includes all called Proteſtants: Or,</p>
+            <p>Secondly, In a ſelect ſenſe, as it includes only true Proteſtants.</p>
+            <p>Thirdly, In a Malignant ſenſe, as it includes only
+<pb n="2" facs="tcp:96627:7"/>Papiſts or Popiſhly affected Ones. Or,</p>
+            <p>Fourthly, In a National ſenſe, as it includes all <hi>En<g ref="char:EOLhyphen"/>gliſh</hi> Subjects. We ſhall uſe it ſometimes in One, ſome<g ref="char:EOLhyphen"/>times in another ſenſe, as the Circumſtances require.</p>
+            <p>The Circumſtances are principally five,
+<list>
+                  <item>1. What Perſons aboard?</item>
+                  <item>2. Whither Bound?</item>
+                  <item>3. What Built?</item>
+                  <item>4. What Courſe?</item>
+                  <item>5. What Wind?</item>
+               </list>
+            </p>
+            <p n="1">1. The Perſons Aboard, are of three ſorts.
+<list>
+                  <item>1. We find <hi>Paul</hi> and <hi>Luke</hi> and <hi>Ariſtarchus,</hi> ver. 1,</item>
+                  <item>2. <hi>Paul</hi> was the great Apoſtle and Doctor of the Nations.</item>
+               </list>
+               <hi>Luke</hi> was the great Evangeliſt and Scribe of the Holy Goſpel. <hi>Aristarchus</hi> was a Noble <hi>Macedonian,</hi> and a Zealous Chriſtian of <hi>Theſſalonica,</hi> who Travell'd with St. <hi>Paul,</hi> and St. <hi>Luke,</hi> to defray their Temporal Charges, to guard them from Injuries, and to help them in all things for the Goſpels ſake. Theſe three Perſons re<g ref="char:EOLhyphen"/>preſent unto us the Now-Church of <hi>England</hi> in the ſelect ſenſe, Apoſtolical and Evangelical.</p>
+            <p>
+               <hi>Aristarchus,</hi> interpreted, ſignifies <hi>a moſt Excellent Prince,</hi> as <hi>is</hi> our Moſt Gracious and Soveraign Defen<g ref="char:EOLhyphen"/>der of the Faith, whom God preſerve, and by him and with him, Our <hi>Paul</hi> and our <hi>Luke. Aristarchus</hi> may alſo repreſent unto us whatſoever Wiſe and Chriſtian Stateſman or Patriot, who for his Faithfulneſs to his Country, is as a Noble <hi>Macedonian;</hi> and for his Zeal in Religion, and Aid to the Proteſtant Miniſtry, is as a Pious <hi>Theſſalonian.</hi> Alſo <hi>Theſſalonica</hi> was the Metro<g ref="char:EOLhyphen"/>polis of <hi>Macedonia,</hi> and had its Name from its Victo<g ref="char:EOLhyphen"/>ries: ſo it may repreſent our Great and Victorious City of <hi>London,</hi> whoſe Victory now ſhines over and out of the Fires of her Enemies. In fine, every Pro<g ref="char:EOLhyphen"/>teſtant Citizen and Country-man is a Religions <hi>Mace<g ref="char:EOLhyphen"/>donian</hi> or <hi>Theſſalonian</hi> in the ſhip of St. <hi>Paul,</hi> Guarding
+<pb n="3" facs="tcp:96627:7"/>and Attending Our <hi>Paul,</hi> Our <hi>Luke,</hi> Our <hi>Aristarchus,</hi> Our Church, Our Goſpel, Our Government.</p>
+            <p>A ſecond ſort of Perſons we find, <hi>ver.</hi> 1. and 42. <hi>Julius</hi> a Centurion, the Commander of the ſhip, with his Souldiers of <hi>Augustus</hi>'s band: to which we may joyn, the Pilot and Maſter of the Ship, with the Sailers and Mariners and the whole Ships Crew, <hi>ver.</hi> 11. and 30. Theſe repreſent the Church of <hi>England</hi> in the Malignant ſenſe, that is, the <hi>Popiſh</hi> Church, or <hi>Romiſh</hi> Party among us. For <hi>Julius</hi> was the Miniſter of the <hi>Roman</hi> Emperour, who then was the Cruel <hi>Nero,</hi> and, together with the other Pagan Emperours, is by St. <hi>John</hi> called <hi>The Red Dragon,</hi> becauſe made Red with the Bloud of Chriſtians: Which <hi>Red Dragon gave his Power and Seat and great Authority to the Beast,</hi> the Pope, <hi>Rev.</hi> 13.1, 2. Then <hi>Julius</hi> the Centurion aptly repreſents every <hi>Popiſh</hi> Power, or Civil <hi>Romiſh</hi> Mini<g ref="char:EOLhyphen"/>ſter among us; and his Souldiers the <hi>Popiſh</hi> Laity, Hirelings or Penſioners, or whatſover <hi>Popiſh</hi> inſtru<g ref="char:EOLhyphen"/>ments or helps. The Pilot and Maſter, and Ships-Crew, repreſent more properly the <hi>Popiſh</hi> Clergy with their Adherents, and all that are <hi>Popiſhly</hi> affected. In Relation to the preſent great <hi>Popiſh</hi> Plot; <hi>Julius</hi> im<g ref="char:EOLhyphen"/>ports the Chief Civil-Agent therein; the Pilot and Maſter, the Chief-ſpiritual Ones. Only mark, <hi>This</hi> Julius <hi>was no</hi> Caeſar, <hi>and we pray God avert ſuch a Judge<g ref="char:EOLhyphen"/>ment from us,</hi> that ever any <hi>Caeſar</hi> ſhould be ſuch a <hi>Julius.</hi>
+            </p>
+            <p>There was a third ſort of perſons in the Ship. There were with <hi>Paul, certain other Priſoners,</hi> ver. 1. Theſe, joyn'd with St. <hi>Paul</hi> and his Company, may repreſent the Church of <hi>England</hi> in the Common ſenſe, as it in<g ref="char:EOLhyphen"/>cludes
+<pb n="4" facs="tcp:96627:8"/>all that are called <hi>Protestants.</hi> But if we take all theſe ſorts of perſons together, that is, all that are Aboard the ſhip, they repreſent the Church of <hi>England</hi> in the National ſenſe, that is, the whole <hi>Engliſh</hi> Nati<g ref="char:EOLhyphen"/>on. So much for the firſt Circumſtance, <hi>who are Aboard?</hi>
+            </p>
+            <p>The ſecond Circumſtance is, <hi>Whither bound?</hi> We need not hale them. For we may read afar off, as it were in their Fore-Caſtle, in the greateſt Characters, <hi>ver.</hi> 1. <hi>It was determin'd that we ſhould ſail into</hi> Italy. It was determin'd that the Whole Nation of us, The Now-Church of <hi>England</hi> in the largeſt ſenſe, ſhould go to <hi>Rome. Julius</hi> the Commander of the Ship had re<g ref="char:EOLhyphen"/>ceiv'd Commiſſion for this, which he durſt not neglect or diſobey; for he could not anſwer ſuch a default be<g ref="char:EOLhyphen"/>fore his Lord, <hi>Augustus Nero.</hi> It was determin'd (the <hi>Chap.</hi> before) by <hi>Porcius Festus,</hi> by King <hi>Agrippa,</hi> and by <hi>Bernice,</hi> that we ſhould all ſail into <hi>Italy</hi> to <hi>Rome,</hi> that we ſhould all be ſhipt together and tranſported to <hi>Popery.</hi> The <hi>French Agrippa,</hi> and the Pompous <hi>Be<g ref="char:EOLhyphen"/>renice,</hi> were thus kind unto us. And what was <hi>Father le Cheeſe, Agrippa</hi>'s Conſeſſor, but a well fed <hi>Porcius Festus?</hi> And was not <hi>Coleman</hi> at leaſt, their moſt hum<g ref="char:EOLhyphen"/>ble <hi>Julius?</hi> Have we not the Letters of his Commiſſion taken from his own hands and confeſt with his own Mouth? in which it was fully determin'd, that we ſhould all ſail into <hi>Italy.</hi> That the whole Nation of us ſhould ſerve <hi>Augustus Nero,</hi> or the Beaſt in his ſtead. That the beaſt ſhould receive his power again over us, which alaſs! he has loſt ſo long. That we ſhould wor<g ref="char:EOLhyphen"/>ſhip him with a new Zeal, and that for his ſake we ſhould ſet up his Image over us, that is, a <hi>Popiſh</hi> power; in which we need fear nothing, but two things. An
+<pb n="5" facs="tcp:96627:8"/>Arbitrary Rule to deſtroy our bodies, that is, our Lives and Liberties at Pleaſure: and an Antichriſtian Religion to deſtroy our Souls of Neceſſity. This is the ſecond circumſtance. <hi>It was determin'd we ſhould ſail into</hi> Italy.</p>
+            <p>The third Circumſtance is, of <hi>What built the Ship,</hi> or, <hi>whence the Ship?</hi> We find it <hi>ver.</hi> 2. Firſt, <hi>we entered into a ſhip of Adramyttium.</hi> The Original Word, is <hi>Chadermouth,</hi> which the Greeks mollifying, pronounce <hi>Adramuttion.</hi> It's compounded of <hi>Chader,</hi> a <hi>Conclave</hi> or privy Room, and <hi>Mouth,</hi> Death. So that the ſhips name was, <hi>the Conclave of Death,</hi> as if we would call it <hi>Portmouth,</hi> the Port of Death; <hi>Mouth</hi> ſignifying Death in the <hi>Hebrew.</hi> Therefore this ſhip of St. <hi>Paul</hi> doth rightly repreſent unto us that ſhip of the Plot which was built in the Jeſuits Conclave; or, which is all One, in the Conclave of <hi>Rome,</hi> to us the Conclave of Death. For there we were all ſhipt for death, both Bodily and Spiritual, Temporal and Eternal. Our E<g ref="char:EOLhyphen"/>nemies had made themſelves ſure of us. Their ſhip was ſo well built, their plot was ſo well laid, that they counted us as much their Priſoners, having got us into their <hi>Chadermouth,</hi> as <hi>Julius</hi> accounted <hi>Paul</hi> and his Fellows his Priſoners, when he had put them into this ſhip of <hi>Adramyttium. I dare engage my Life for a Sa<g ref="char:EOLhyphen"/>crifice,</hi> ſays <hi>Coleman</hi> to <hi>Porcius Feſtus, if we ſucceed not</hi> &amp;c. And his Word was made true, but not to his own Mind. But mind now, whom had they ſhip't in this ſhip of Death? Not only <hi>Paul</hi> and <hi>Luke,</hi> but alſo <hi>Ariſtarchus</hi> our Soverain Lord, the beſt of Princes; and with him, every Noble <hi>Macedonian,</hi> every faithful Patriot; every Chriſtian <hi>Theſſalonian,</hi> every zealous Citizen and Proteſtant. <hi>Theſſalonica</hi> it ſelf, they de<g ref="char:EOLhyphen"/>voted
+<pb n="6" facs="tcp:96627:9"/>to the Flames. They ſucceeded in that: they burnt our faireſt Proteſtant City: but ſhe coming victo<g ref="char:EOLhyphen"/>rious with double Glory out of the midſt of the <hi>Popiſh</hi> Furnace, ſhe prov'd her ſelf a <hi>Theſſalonica</hi> indeed. In a word, the Whole Nation was put into this ſhip, <hi>their Cha<g ref="char:EOLhyphen"/>dermouth,</hi> to be tranſported to <hi>Rome</hi> or Death or Hell: yet <hi>Paul</hi> and <hi>Luke</hi> and <hi>Ariſtarchus,</hi> that is, <hi>only Our chief and beſt Ones,</hi> were markt out for preſents to <hi>Nero,</hi> for ſacrifices to his holy power. And we ſhall ſee wonders in their Reſcue. For ſee we,</p>
+            <p>The fourth Circumſtance, <hi>what courſe</hi> the ſhip ſteers? Not what courſe the Commander had deviſed, or the Sailers. For then we had all been undone, and carried to <hi>Rome</hi> before this. For ver. 2. <hi>They meant to ſail by the Coaſts of</hi> Aſia, in which coaſts was Built that <hi>Adra<g ref="char:EOLhyphen"/>myttion,</hi> that <hi>Portſmouth,</hi> that door of death which was prepared for us, there they had chalkt out an infal<g ref="char:EOLhyphen"/>lible way of deſtruction for us all. But God regarded his ſervants in this Ship: and for his Church and Go<g ref="char:EOLhyphen"/>ſpels-ſake he ſteer'd his <hi>Paul,</hi> and his <hi>Luke</hi> another way. He brought them firſt to <hi>Sidon,</hi> to <hi>Agrippa</hi>'s Confederates, and gave <hi>Paul</hi> favour even in the eyes of <hi>Julius,</hi> and no few friends in <hi>Sidon,</hi> ver. 3. So God rais'd us up friends to help us from amidſt our Death-plotting Enemies. <hi>From Sidon, Julius thought to ſail ſtraight to Myra:</hi> he miſtook it for a <hi>Roman</hi> word, and thought to work <hi>wonders</hi> in a moment. But the God of <hi>Paul</hi> countermanded the Winds, and ſteer'd them under <hi>Cyprus,</hi> and over the Sea of <hi>Cilicia</hi> and <hi>Pamphylia,</hi> ver. 4, 5, led them a way which they thought not of, for <hi>the way of the wicked the Lord turn<g ref="char:EOLhyphen"/>ed upſide down,</hi> Pſal. 146.9. at length by his permiſſi<g ref="char:EOLhyphen"/>on they came to <hi>Myra in Lycia:</hi> where this firſt ſhip,
+<pb n="7" facs="tcp:96627:9"/>having ſerv'd <hi>Paul</hi> more than <hi>Julius,</hi> finiſhed its courſe. So has our God made the <hi>Popiſh</hi> Plotters to ſerve moſt wonderfully the Goſpel's turn, even while they ſought to deſtroy it. The Parallel of this firſt ſhip ſeems to reach as far as the matter of Toleration, procured by Our <hi>Engliſh Julian's:</hi> by which they doubted not to Hobgoble us all, to ſhip us and tranſport us, as ſo many ſtock-fiſh, and to ſell us to <hi>Rome</hi> at what rate they pleas'd. But that ſhip, <hi>their Chadermouth</hi> failing them,</p>
+            <p>The ſacred Hiſtory tells us, <hi>ver.</hi> 6. That at <hi>Myra</hi> in <hi>Lycia, Julius found a ſhip of</hi> Alexandria, <hi>ſailing into</hi> Italy, <hi>and put us therein. Myra,</hi> from the Greek is in<g ref="char:EOLhyphen"/>terpreted a place of Myrrh; and <hi>Lycia</hi> a place of Wolves. Myrrh is a funeral Odorament, and the Wolves of our Land are the Plotters of <hi>Rome.</hi> Then <hi>Myra</hi> in <hi>Lycia</hi> was that <hi>funeral</hi> Conſult of <hi>Wolves,</hi> that is, of the Jeſuits: in which they had bound up together as in a funeral Bundle, the ſacred Life of our King, with the lives of our <hi>Pauls,</hi> of our <hi>Luke</hi>'s, of all our <hi>Ariſtarchus</hi>'s, of every noble <hi>Macedonian,</hi> of every zealous <hi>Theſſalonian</hi> among us. This was their <hi>Alex<g ref="char:EOLhyphen"/>andria,</hi> in which they thought to conquer all. In this ſhip, ſays St. <hi>Luke</hi> ver. 7. <hi>We ſail'd ſlowly many dayes, over-againſt</hi> Cnidus, <hi>under</hi> Crete, <hi>over-against</hi> Salmone, and after much adoe, came <hi>to the fair havens, nigh whereunto was the City of Laſea.</hi> Of theſe places, Ob<g ref="char:EOLhyphen"/>ſerve, Firſt of <hi>Crete,</hi> Tit. 1.12. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, &amp;c. <hi>The Cretans are always Liars, evil Beaſts, Idle-bellies. Cnidus</hi> interpreted imports the Art of ſlandering, <hi>Sal<g ref="char:EOLhyphen"/>mone</hi> of flatterring, <hi>Laſea</hi> of Fraud, ſubtle, and fox-like Circumvention. All theſe put together, lying, ſlandering, flattering, fraud, ſubtlety, diſſimulation,
+<pb n="8" facs="tcp:96627:10"/>circumvention, repreſent unto us the Myſtery of Jeſu<g ref="char:EOLhyphen"/>itiſm, with which (as with the Devil's Compaſs) they ſteered their <hi>Alexandria,</hi> ſailing ſlowly many dayes, till with much ado they came to the fair Havens of ſome vain and preſumptuous hopes.</p>
+            <p>For in the height of their <hi>Alexandrian</hi> hope, behold what befell them and their <hi>Alexandria:</hi> Their wicked, horrid and plagiary deſign againſt <hi>Paul</hi> and <hi>Luke</hi> and <hi>Ariſtarchus,</hi> againſt King and Church and State, was ſtrangely diſcover'd and brought into light. And our gracious <hi>Paul</hi> according to his excellent ſpirit advis'd our <hi>Julius</hi> and his Company to deſiſt and proceed no farther. His Reaſons you have <hi>ver.</hi> 9, 10. Firſt, <hi>that the time of ſailing was now ſpent, and ſailing was very dangerous.</hi> For the <hi>Jewiſh</hi> Faſt of <hi>September</hi> was over, at which time of year, Our <hi>Popiſh</hi> Plot was fully diſco<g ref="char:EOLhyphen"/>ver'd. <hi>Paul</hi> alſo told them, that the event of a farther <hi>Voyage would be with much hurt and dammage not only of lading and ſhip, but alſo of their lives.</hi> This diſcovery being made, and that by the help of their own Confe<g ref="char:EOLhyphen"/>derates, was ſurely ſufficient to make them deſiſt, had not more than a deviliſh wickedneſs wholly poſſeſt and over-rul'd them. But mark the deviliſh Obduracy of the <hi>Popiſh</hi> Clergy.</p>
+            <p>For <hi>ver.</hi> 11, 12. The Pilot and Maſter of the ſhip with the Company of Sailers and Seamen, that is, the <hi>Popiſh Clergy, Cardinals, Provincials,</hi> and other <hi>Jeſu<g ref="char:EOLhyphen"/>its</hi> and <hi>Priests</hi> ſuffer'd not <hi>Julius</hi> to hearken to <hi>Paul;</hi> but gave him all hopes of the beſt ſucceſs, and that they might yet obtain their purpoſe, and find a commodi<g ref="char:EOLhyphen"/>ous Haven to winter in, even <hi>Phenice</hi> in <hi>Crete.</hi> In this they all joyn'd Votes and Voices, and prevail'd with <hi>Julius</hi> that he conſented to them, and would not
+<pb n="9" facs="tcp:96627:10"/>hearken to <hi>Paul,</hi> and ſo their deſign for <hi>Phenice</hi> was concluded. What this <hi>Phenice</hi> in <hi>Crete</hi> imports, is not hard to unridle. <hi>Crete,</hi> as St. <hi>Paul</hi> told us, is the famous ſeat of Liars; and <hi>Phenice,</hi> that eſpecially which is in <hi>Crete,</hi> is famous for that credit, which the <hi>Ro<g ref="char:EOLhyphen"/>mans</hi> themſelves call <hi>fidem Punicam, Phenicean credit,</hi> which never fails to fail. Then <hi>Phenice in Crete,</hi> is lye in lye, plot in plot, fraud upon fraud, a plot of plots. This was the Popiſh <hi>Alexandrian</hi> plot. They reſolv'd and it was determin'd, that although their <hi>Chadermouth</hi> fail'd, yet their <hi>Alexandria</hi> ſhould not. The reſult of the Conſult was to deny, and abjure the diſcover'd plot with ſuch impudence, that Heaven and Earth could not poſſibly believe: and not only ſo, but their Reſo<g ref="char:EOLhyphen"/>lution was this, while they denied their own plot with a <hi>Cretian</hi> lye, that at the ſame time they would lay a worſe plot at the Proteſtant door with a <hi>Phenician</hi> lye. This was their <hi>Phenice</hi> in <hi>Creet.</hi> And this was a very cunning and ſubtle Haven for them to Winter in. Therefore <hi>ver.</hi> 12. This Haven is ſaid to <hi>lye toward the South-weſt and North-Weſt:</hi> that is, in the form of an half Moon, within which their <hi>Alexandria</hi> might have winter'd ſafe and ſecure from all Wind and Weather, and could they have got in here, they had ſav'd them<g ref="char:EOLhyphen"/>ſelves, and had carried us all, Our <hi>Paul</hi>'s, our <hi>Luke</hi>'s, and our <hi>Ariſtarchus</hi>'s, Our Church and State to <hi>Rome.</hi> But God forbad ſuch a thing: yet they went very far toward it; they ſail'd very fair for it a while, with a fair ſouth-gale. For as you have <hi>ver.</hi> 13. <hi>The ſouth-wind blew ſoftly upon them, and ſuppoſing they had obtain'd their purpoſe, looſing from the fair havens, they ſail'd cloſe by Crete,</hi> their beloved land, <hi>ſed praevenit jactum an<g ref="char:EOLhyphen"/>chorae Deus.</hi> But</p>
+            <pb n="10" facs="tcp:96627:11"/>
+            <p>It was not long, till <hi>ver.</hi> 14. <hi>There aroſe againſt them a tempeſtuous wind, called</hi> Euroclydon. This was the breath of <hi>Jehovah</hi> our God, which blew our Enemies from their expected port, from their refuge of Lies, from their dear <hi>Phenice,</hi> and ſaved us from their baſe <hi>Phenician</hi> deſigns: which we conſider with aſtoniſh<g ref="char:EOLhyphen"/>ment to the praiſe of Providence in the</p>
+            <p>Fifth Circumſtance, <hi>how they wind?</hi> What is that <hi>Euroclydon?</hi> Many read it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: and ſo the La<g ref="char:EOLhyphen"/>tine renders it <hi>Euro-aquilo.</hi> The North-Eaſt wind. The Word ſeems to import much of the <hi>American</hi> Hur<g ref="char:EOLhyphen"/>ricane in it, which riſing in the Eaſt, Whirles towards the North, and thence to the Weſt, and gathering force round the Compaſs, comes to its fulleſt miſchief in the South. However this is certain, it was <hi>Eurotyphonicus.</hi> was a ſudden Violent, Tempeſtuous and Mighty Wind riſing from the Eaſt, with which their <hi>Alexandria</hi> was ſo caught, that ſhe could not bear up into the Wind, but was violently beaten from the deſired <hi>Phenice.</hi> Now this diſappointment was wonderful in our eyes. For they had brought their ſhip in ſight of their <hi>Phe<g ref="char:EOLhyphen"/>nice,</hi> they had a fair ſoft ſouth-gale for a time, they thought they had obtain'd their purpoſe, they had wip'd their mouths clean of the Plot, as if it had never touch'd their Lips, they denied it, they abhorr'd it, they curſed it, they abjur'd it to very Death, they got Martyrs, not a few, zealous Martyrs for their Lye, they had made ridiculous, odious, infamous, all that ſhould mutter againſt them; the Diſcoverers of the Plot were made the Plotters; Our <hi>Paul</hi>'s, our <hi>Luke</hi>'s, our <hi>Ariſtarchus</hi>'s, even they were accuſed; the <hi>A<g ref="char:EOLhyphen"/>lexandrian</hi>-Crew was every day heard loud in <hi>Huzzah</hi>'s. <hi>Phenice</hi> was in their hearts, in their eyes, almoſt in
+<pb n="11" facs="tcp:96627:11"/>their hands: they thought ſurely to Winter there, and the next ſpring to tranſport us all. Their Midwife Sham-plots, their <hi>Cnidian, Salmonean, Laſean, Cretian, Phenician</hi> Lyes, Tricks, Jugglings, Conjurings, Equi<g ref="char:EOLhyphen"/>vocations, Mental Reſervations, Oral Prolations, Per<g ref="char:EOLhyphen"/>juries, Forgeries, precious Subornations, moſt holy bloody Oaths of Secreſie, but above all their ſtupen<g ref="char:EOLhyphen"/>dious, unparallell'd, miraculous Martyrdoms, which Heaven and Earth and Hell do admire, that ſo many men ſhould dye for a lye in envy to the Martyrs of Je<g ref="char:EOLhyphen"/>ſus who dyed for the Truth. Theſe things, I ſay, made up their hopes ſo full and fair, that they doubted not to Winter in <hi>Phenice,</hi> and next ſpring to go where they pleas'd. But the Lord forbad. There came a North-Eaſt Wind from the Lord, and ſo beat upon their <hi>Crete</hi> that they utterly loſt all ſight and hope of <hi>Phenice.</hi> To be brief, this was the <hi>Euroclydon</hi> of the laſt Parliament, That Typhonical Wind which blew upon the Plot from the Tryal of <hi>Stafford:</hi> with which their <hi>Alexandria</hi> was caught, and could not bear up into the Wind any longer. This is the ſum of the Text, <hi>and when the ſhip was caught and could not bear up into the Wind, we let her drive.</hi> But you will ſay, Do not the Papiſts bear up into the Wind ſtill? I anſwer, No: but let us examine what follows the Text, and we'll find, they have given up themſelves to the Mer<g ref="char:EOLhyphen"/>cy of the Winds a long time; and are in a ſad drift, driven they know not whither, even whither the Ma<g ref="char:EOLhyphen"/>ſter of the Winds ſhall drive them: and were it not that <hi>Paul</hi> and <hi>Luke</hi> and <hi>Aristarchus</hi> are in the ſhip, they had periſht long agoe. Time will not ſuffer me to be par<g ref="char:EOLhyphen"/>ticular in all points. I muſt be content to obſerve one or two things.</p>
+            <pb n="12" facs="tcp:96627:12"/>
+            <p>Firſt, That <hi>ver.</hi> 16. They were by that <hi>Stafford-En<g ref="char:EOLhyphen"/>roclydon</hi> ſuddenly driven under the Iſland <hi>Clauda:</hi> for being driven from their <hi>Crete,</hi> from their refuge of lies, they found their cauſe to halt fearfully. <hi>Stafford</hi> not<g ref="char:EOLhyphen"/>withſtanding his tougheſt ſtiffneſs fell, and <hi>ver.</hi> 17. <hi>fearing lest they ſhould fall into quick-ſands,</hi> they were put to all their ſhifts, they took up their boat, uſed helps, undergirded their ſhip, took down their ſails, and being exceedingly toſt, they lightned the Ship, caſting out the very tackling, <hi>ver.</hi> 18, 19. &amp;c. This fignifies the <hi>Popiſh</hi> vain hopes and ſhifts in and ſince the laſt Prorogation and Diſſolution: ſince which</p>
+            <p>We may ſay, that of <hi>ver.</hi> 20. <hi>Neither Sun nor Stars in many dayes have appear'd unto us: and no ſmall tempeſt has laid (and yet lyeth) upon us: and</hi> (had we not known our God) <hi>all hope that we ſhould be ſaved had been taken away.</hi> But, God be bleſt, we find, <hi>ver.</hi> 21. We have St. <hi>Paul</hi> to ſtand up in the midſt of us, to comfort and cheer us and to give us Aſſurance of that God whom he preaches, that he hath determin'd (contrary to our Enemies) to ſave us, that an hair of our head ſhall not periſh, <hi>ver.</hi> 22. <hi>Now I exhort you to be of good cheer,</hi> ſays <hi>St. Paul, for there ſhall be no loſs of any mans. Life among you, but of the Ship.</hi> Two things he tells us,</p>
+            <p n="1">1. <hi>The ſhip ſhall be loſt,</hi> that is, the Now-Church of <hi>England</hi> in the Malignant ſenſe, The <hi>Popiſh</hi> Church, the <hi>Romiſh</hi> Bottom, their truſty <hi>Alexandria</hi> ſhall be bro<g ref="char:EOLhyphen"/>ken in pieces, it ſhall ſail no more in the <hi>Engliſh</hi> Seas You may read, <hi>ver.</hi> 39. <hi>The ſailers diſcovering a certain creek with a ſhore, thought to thrust in the Ship there,</hi> and to ſave themſelves and the Veſſel, and <hi>ver.</hi> 40. they made all ſhifts to do it: but <hi>ver.</hi> 41. <hi>Falling into a place where two ſeas met, they ran the ſhip aground: and the
+<pb n="13" facs="tcp:96627:12"/>forepart ſtuck faſt and remained unmoveable, but the hin<g ref="char:EOLhyphen"/>der part was broken with the violence of the waves,</hi> So now our <hi>Popiſh</hi> Sailers may perhaps have ſome hopes in the <hi>Oxford</hi> Creek and Shore, and may think to thruſt in their <hi>Alexandria</hi> there, and to ſave the Veſſel of their Plot. But I truſt rather the Word of St. <hi>Paul, The Ship ſhall be loſt.</hi> They'll find at <hi>Oxford</hi> two Seas meet, the Houſe of Lords, and the Houſe of Commons; there they ſhall run their <hi>Alexandria</hi> aground. The forepart ſhall ſtick faſt and remain unmoveable: their Chieftains ſhall ſtick where <hi>Stafford</hi> ſtuck. As for the hinderpart of the ſhip, the reſt of the <hi>Popiſh</hi> rout, that ſhall be broken in pieces with the violence of the Waves. Our <hi>Engliſh</hi> Seas will ſpue them out, and our Loyal ground will ſwallow themalive. And this is the loſs of the ſhip; to this ſhall the <hi>Popiſh Alexandria</hi> be driven by the Winds of the Lord our God. But of our lives who are in the ſhip, <hi>Paul</hi> tells us, <hi>there ſhall be no loſs of any mans Life among you.</hi> This is underſtood of the Now-Church of <hi>England</hi> in the ſelect ſenſe, as it includes all true Proteſtants. We muſt confeſs even they were, or now are in utmoſt danger: neither could they, nor yet can they ſave themſelves. <hi>Paul</hi> and <hi>Luke</hi> and <hi>Ariſtarchus,</hi> they were in the ſhip which was loſt, and when it was loſt and they ſuffer'd loſs with the ſhip: yea, they were in other peculiar danger, no leſs unavoidable than ſhip wrack, without God. For, <hi>ver.</hi> 42. <hi>The Souldiers counſel, was to kill the Priſoners,</hi> and <hi>Paul</hi> in the firſt place. But God turn'd the heart of <hi>Julius</hi> to ſave <hi>Paul,</hi> and with <hi>Paul</hi> the reſt. So may the Lord turn the hearts of our <hi>Popiſh Julius</hi>'s to ſave our <hi>Paul</hi>'s, our <hi>Luke</hi>'s, our <hi>Ariſtarchus</hi>'s; Our Goſpel, Our Government. Therefore alſo even <hi>Julius</hi> and
+<pb n="14" facs="tcp:96627:13"/>his Companions were ſaved with <hi>Paul</hi> and his Compa<g ref="char:EOLhyphen"/>nions.</p>
+            <p>The Hiſtory tells us not that <hi>Julius</hi> became a Chriſti<g ref="char:EOLhyphen"/>an, yet becauſe he befriended <hi>Paul,</hi> we have ſome hope of him, even ſo we have hope ſtill of the <hi>Popiſh Julius</hi>'s among us; that not only their Lives but their Souls too may be ſaved with us. But to conclude all, let us mark. with what difficulty even <hi>Paul</hi> and his Company were ſaved.</p>
+            <p>Ver. 43. Thoſe that could ſwim, caſt themſelves firſt into the Sea, and got to land. The beſt among us may be put to ſwim for our lives: and if the ſea, wherein we muſt ſwim, prove not a Sea of bloud, which God of his infi<g ref="char:EOLhyphen"/>nite Mercy prevent, and avert by his Almighty power: yet certainly the Sea we muſt ſwim in, is very tempeſtuous, and the billows break higher and higher, till God ſhall rebuke them and bid them be ſtill. But alaſs! all cannot ſwim; ſome muſt be put to harder ſhifts. Therefore <hi>ver.</hi> 44. Thoſe that could not ſwim, <hi>got ſome on boards, ſome on broken pieces of the ſhip, and ſo it came to paſs that they eſcaped all ſafe to land.</hi> All! All! None loſt; no, not One of <hi>two hundred threeſcore and ſixteen ſouls,</hi> ver. 37. But pray mark</p>
+            <p>Who theſe all were? they were they who had <hi>Paul</hi> and <hi>Luke</hi> and <hi>Ariſtarchus</hi> with them. That is all who keep and obſerve the Apoſtolical and Evangelical Faith; and who maintain the Ariſtarchical, that is, the true, beſt, ancient, juſt and lawfully eſtabliſh't Government among us, which is by King and Parlia<g ref="char:EOLhyphen"/>ment. God has joined theſe, no man muſt divide them. The Papiſts would take away the Parliament from the King, and God knows too many join with the Papiſts in this point, which is the greateſt point the
+<pb n="15" facs="tcp:96627:13"/>Papiſts can wiſh to gain. On the other hand, there be Commonwealth-men, who would take away the King from the Parliament: thoſe ſhall not be ſaved from the ſtorm, for they want an <hi>Ariſtarchus</hi> on their ſide. But let us with our <hi>Paul,</hi> and with our <hi>Luke,</hi> love and preſerve our <hi>Ariſtarchus</hi> to the laſt, for our <hi>Ariſtarchus</hi> both loves and ſerves us. This is one <hi>Engliſh</hi> Glory, <hi>an Ariſtarchy,</hi> not an <hi>Ariſtocracy,</hi> where many hold the Scepter; but an <hi>Ariſtarchy,</hi> where our Sovereign Lord and King is hon<g ref="char:EOLhyphen"/>our'd and obeyed of all as moſt excellent and ſupreme, as the anointed of the Lord among us. Whom we obey for the Lord's ſake according to his Laws, and the Laws of the Nation; and for whom we pray to the Lord, that he will keep him as the man of his right hand, making him a Ruler according to his own heart. Let us then cleave faithfully to our <hi>Paul,</hi> to our <hi>Luke,</hi> to our <hi>Ariſtarchus;</hi> and there ſhall not an hair fall from the head of any of us. Be what ye ought to be, be your ſelves, be true <hi>Engliſhmen</hi> and faithful Chriſtians: maintain the <hi>Engliſh</hi> Law, and the Proteſtant Faith; Give God, the King, and your Bre<g ref="char:EOLhyphen"/>thren their due: and I bid you with St. <hi>Paul, Be of good cheer, for there ſhall be no loſs of any mans life among you, but of the ſhip.</hi> The Popiſh <hi>Alexandria</hi> ſhall be broken in pieces. The forepart ſticks already faſt, the hinder part cannot hold long. However,</p>
+            <p>We are all in the hands of God; we are all at the Mercy of the Almighty. The Tempeſt of his wrath is ſtill upon us, even upon us, Our Sins continue it. 'Tis his Mercy we are not conſum'd. Repent we, Faſt we, Pray we with St. <hi>Paul,</hi> that the Angel of the Lord may be with us alſo, ſtrengthning us, guarding us, guiding us in the midſt of theſe raging Waters, which are ready to ſwallow us up. Let us call upon the Lord Jeſus, as his Diſciples did in the like caſe, <hi>Mat.</hi> 8.25. <hi>Awake Lord, ſave us, we periſh.</hi>
+               <pb n="16" facs="tcp:96627:14" rendition="simple:additions"/>He ſeems to ſleep and forſakeus, becauſe indeed we have forſaken him, and have ſlept in our ſins a long time. Riſe we to Repentance, and he will riſe to Salvation; for he's ordained of God to be Our Saviour, to be our Re<g ref="char:EOLhyphen"/>fuge from the ſtorm, our hiding-place from the Wind, our Covert from the Tempeſt, even from this very Tem<g ref="char:EOLhyphen"/>peſt, from this <hi>Euroclydon,</hi> which ſhall deſtroy his Ene<g ref="char:EOLhyphen"/>mies: but ſhall not touch the hair of the head of any man that faithfully truſteth in him. So underſtand we this Text, <hi>And when the ſhip was caught, and could not bear up into the Wind, we let her drive.</hi> Now with Tears of Re<g ref="char:EOLhyphen"/>pentance, and with Hearts of Faith, caſting our ſelves into the Arms of his Gracious Providence, let us with St. <hi>Paul</hi> bow our knees to the Father of our Lord Jeſus Chriſt and Pray for our ſelves and for the Whole Nation.</p>
+            <div type="prayer">
+               <p>O God, who doeſt whatever pleaſeth thee in Heaven and in Earth, in the Seas and in all deep places, who for our Example and great Conſolation didſt ſo wonderfully ſave from the tempeſtuous Winds and Seas, thy Servants <hi>Paul</hi> and <hi>Luke</hi> and <hi>Ariſtarchus,</hi> and a great multitude with them for thy Mercy's ſake. Look now we be<g ref="char:EOLhyphen"/>ſeech thee with thy wonted pity upon thy Church which is a<g ref="char:EOLhyphen"/>mong us; Open the bowels of thy moſt tender compaſſions up<g ref="char:EOLhyphen"/>on this ſinful and ungrateful Nation. Save us from the storms of Popery, from the rage of Antichriſt, from the evils of our own ſins, which, if thou ſaveſt us not, ſhall pre<g ref="char:EOLhyphen"/>vail over us to utter destruction. O Lord, whatever loſs or damage of Temporal State we may ſuffer, ſuffer us not to make ſhipwrack of our Faith. A hair of our heads ſhall not fall without thy leave; O ſave our Souls for thy Mercies ſake. Save thy Flock, even for thine infinite Mercies in Jeſus Chriſt, to whom, with thy felf and Holy Spirit, be praiſe and honour for ever and ever more and more without end. <hi>Amen.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:96627:14"/>
+         </div>
+      </body>
+   </text>
+</TEI>
